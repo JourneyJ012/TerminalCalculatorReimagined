@@ -14,4 +14,3 @@ Currently supported operands: <br>
 - Pythag
 - Sin
 - Rng
-- Info
