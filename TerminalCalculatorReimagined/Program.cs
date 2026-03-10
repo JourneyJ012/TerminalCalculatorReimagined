@@ -33,7 +33,7 @@
 			Console.WriteLine("This application was written by Archilux in C# based on JourneyJ012's TerminalCalculator");
 			Console.WriteLine("This software falls under GNU General Public License v3.0 (GPL)");
 			Console.WriteLine("The supported operations in this version are: add, subtract, multiply, divide, sqrt, pythag, sin and rng.");
-			Console.WriteLine("This is v1.0.0 built on 10/03/2026")
+			Console.WriteLine("This is v1.0.0 built on 10/03/2026");
 			return;
 		}
 		
